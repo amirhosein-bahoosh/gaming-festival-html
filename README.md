@@ -36,4 +36,4 @@ During this project I practiced:
 
 ## 👨‍💻 Author
 
-Amirhossein Bahoosh
+Amirhosein Bahoosh
